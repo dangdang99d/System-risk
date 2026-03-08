@@ -47,7 +47,17 @@ Traditional prediction models often fail during extreme market stress because th
 
 ## Performance & Vision
 
-Our framework demonstrates superior robustness in high-complexity regimes where standard models lose predictive power. By acting as a "Risk Monitoring Filter," this model can protect investors and minimize social costs during black swan events like the COVID-19 shock or the 2022 rate hike cycle.
+Our framework demonstrates superior robustness in high-complexity regimes where standard models lose predictive power.
+
+![Confusion Matrix](presentation/confusion_matrix.png)
+
+*Figure: Confusion matrix showing the model's performance in detecting systemic risk.*
+
+By acting as a "Risk Monitoring Filter," this model can protect investors and minimize social costs during black swan events like the COVID-19 shock or the 2022 rate hike cycle.
+
+![Result](presentation/result.png)
+
+*Figure: Results of asset management using the proposed model, demonstrating successful risk mitigation.*
 
 ---
 
