@@ -2,7 +2,7 @@
 
 This project proposes a novel deep learning framework to detect **Systemic Risk** in financial markets by capturing both static correlations and dynamic causalities between assets.
 
-![architecture](![alt text](image.png))
+![architecture](presentation/architecture.png)
 
 ---
 
